@@ -3,7 +3,7 @@
 # André S Nascimento
 
 ## Olá mundo! 👋
-Sou André, 40+ anos casado com a melhor Luciana desse mutiverso e orgulhoso pai da Giulia, do Kalel e do Gabriel.
+Sou André, 40+ anos casado com a melhor Luciana desse multiverso e orgulhoso pai da Giulia, do Kalel e do Gabriel.
 Meu sonho é mudar o mundo, resolvendo problemas através da programação de computadores.
 Atualmente na jornada de ser um FullStack Developer :computer:
 

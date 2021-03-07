@@ -14,6 +14,4 @@ Atualmente na jornada de ser um FullStack Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto seriados, jogar Magic Arena, ler sobre quase tudo e descobri a cozinha da minha casa como mais um lugar para por algoritmos para funcionar.
  <br/> :email: &nbsp; Entre em contato comigo: 
  <br/>
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresoaresnascimento/)](https://www.linkedin.com/in/andresoaresnascimento/)
-
- [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andresoaresnascimento@gmail.com)](mailto:andresoaresnascimento@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresoaresnascimento/)](https://www.linkedin.com/in/andresoaresnascimento/) | [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andresoaresnascimento@gmail.com)](mailto:andresoaresnascimento@gmail.com)

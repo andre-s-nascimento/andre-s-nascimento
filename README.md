@@ -1,4 +1,4 @@
-<img width="auto" height ="300" src="https://i.imgur.com/HE6EjGY.jpeg">
+<img width="auto" src="https://i.imgur.com/Ofg0PDD.jpg">
 
 # André S Nascimento
 

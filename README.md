@@ -3,11 +3,11 @@
 # André S Nascimento
 
 ## Olá mundo! 👋
-Sou André, 40+ anos casado com a melhor Luciana desse multiverso e orgulhoso pai da Giulia, do Kalel e do Gabriel.
+Sou André, 40+ anos e orgulhoso pai da Giulia, do Kalel e do Gabriel.
 Meu sonho é mudar o mundo, resolvendo problemas através da programação de computadores.
 Atualmente na jornada de ser um FullStack Developer :computer:
 
- :mag:  &nbsp; Procurando por novas oportunidades de trabalho no momento
+ 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
  <br/> :bulb: &nbsp; Posso te ajudar com HTML, CSS, Javascript, PHP e Java.
  <br/> :computer: &nbsp; Minha stack: HTML, JavaScript, PHP, Java.

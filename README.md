@@ -1,4 +1,4 @@
-<img src="[Imgur](https://imgur.com/pwCezKS)">
+<img src="https://i.imgur.com/pwCezKS.png">
 
 # André S Nascimento
 

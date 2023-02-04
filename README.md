@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/pwCezKS.png">
-
 # André S Nascimento
 
 ## Olá mundo! 👋

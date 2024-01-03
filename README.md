@@ -6,9 +6,9 @@ Meu sonho é mudar o mundo, resolvendo problemas através da programação de co
 Atualmente na jornada de ser um FullStack Developer :computer:
 
  
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end e Front-end
  <br/> :bulb: &nbsp; Posso te ajudar com HTML, CSS, Javascript, PHP e Java.
- <br/> :computer: &nbsp; Minha stack: HTML, JavaScript, PHP, Java.
+ <br/> :computer: &nbsp; Minha stack: Java | Spring, Angular
  <br/> 💬  &nbsp; Sobre mim: Curto seriados, jogar Magic Arena, ler sobre quase tudo e descobri a cozinha da minha casa como mais um lugar para por algoritmos para funcionar.
  <br/> :email: &nbsp; Entre em contato comigo: 
  <br/>
